@@ -23,6 +23,6 @@ In the "Code Samples" section, I've provided snippets from some of my favorite p
 I'm always open to collaboration, learning, and networking. Please feel free to reach out to me via the following channels:
 
 - **Email**: [liam.stacey05@gmail.com](mailto:liam.stacey05@gmail.com)
-- **Socials**: [![](<img src="Images/instagram_icon.png" width="50" height="50">)](https://www.instagram.com/triscrpt/)
+- **Socials**: [<img src="Images/instagram_icon.png" width="50" height="50">](https://www.instagram.com/triscrpt/)
 
 Thank you for visiting my GitHub portfolio. I'm excited to continue growing, learning, and coding, and I hope you find something here that inspires you. Whether you're a fellow developer, a potential employer, or just someone who's interested in my work, let's connect!
