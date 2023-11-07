@@ -1,3 +1,5 @@
+[Back to main page](README.md)
+
 ## Welcome to My Coding Journey
 
 Hello there! I'm Liam Stacey (trisrpt), and this is my GitHub portfolio—a digital space where I will showcase my abilities in software development. Here, you'll find a selection of my projects, code samples, software, giving you a glimpse into my skills, passion, and journey in programming.
@@ -21,3 +23,5 @@ In the "Code Samples" section, I've provided snippets from some of my favorite p
 I'm always open to collaboration, learning, and networking. Please feel free to reach out to me.
 
 Thank you for visiting my GitHub portfolio. I'm excited to continue growing, learning, and coding, and I hope you find something here that inspires you. Whether you're a fellow developer, a potential employer, or just someone who's interested in my work, let's connect!
+
+[Back to main page](README.md)
