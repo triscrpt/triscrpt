@@ -1,4 +1,4 @@
-[Back to main page](README.md)
+[Back to main page](triscrpt/README.md)
 
 ## Welcome to My Coding Journey
 
@@ -24,4 +24,4 @@ I'm always open to collaboration, learning, and networking. Please feel free to 
 
 Thank you for visiting my GitHub portfolio. I'm excited to continue growing, learning, and coding, and I hope you find something here that inspires you. Whether you're a fellow developer, a potential employer, or just someone who's interested in my work, let's connect!
 
-[Back to main page](README.md)
+[Back to main page](triscrpt/README.md)
