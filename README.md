@@ -10,6 +10,9 @@
 ## Social
 >- **Email**: [liam.stacey05@gmail.com](mailto:liam.stacey05@gmail.com)
 >
+>[![Github](Images/Github_badge.svg)](https://github.com/triscrpt)
+>[![Twitter](Images/Twitter_badge.svg)](https://twitter.com/triscrpt)
+>[![Linkedin](Images/Linkedin_badge.svg)](https://www.linkedin.com/in/liam-stacey-b5389b218/)
+>[![Youtube](Images/Youtube_badge.svg)](https://www.youtube.com/@triscrpt)
 >[![Instagram](Images/Instagram_badge.svg)](https://www.instagram.com/triscrpt/)
->[<img src="Images/twitter_icon.png" alt="Twitter" width="50" height="50">](https://twitter.com/triscrpt)
->[<img src="Images/youtube_icon.png" alt="YouTube" width="50" height="50">](https://www.youtube.com/@triscrpt)
+>[![Facebook](Images/Facebook_badge.svg)](https://m.facebook.com/liam.stacey.98031?eav=Afbz8Z7YjAcdq8rqRvHG4PgEVymp50oDUD5StlXZwBnWQurvXUxwyMwWPawLdWJvLag&paipv=0)
