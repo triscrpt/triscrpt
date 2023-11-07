@@ -3,8 +3,8 @@
 </div>
 
 ## About
->- Fun facts about me
->- Education
+>- [Fun facts about me](Pages/Education.md)
+>- [Education](Pages/FunFacts.md)
 >- [Temporary Waffle](Pages/Waffle.md)
 
 ## Social
