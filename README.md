@@ -1,4 +1,4 @@
-<div align:center">
+<div align="center"> 
   <img src="Images/Name.gif" alt=TriScrpt>
 </div>
 
