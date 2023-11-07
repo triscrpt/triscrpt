@@ -1,5 +1,6 @@
- ![](Images/Name.gif)
-#
+<div style="text-align:center">
+  <img src="Images/Name.gif">
+</div>
 
 ## Welcome to My Coding Journey
 
