@@ -1,5 +1,4 @@
-# Triscrpt's GitHub Portfolio
-![](Images/Name.gif)
+# ![](Images/Name.gif)
 
 ## Welcome to My Coding Journey
 
