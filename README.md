@@ -1,5 +1,5 @@
-<div style="text-align:center">
-  <img src="Images/Name.gif">
+<div align:center">
+  <img src="Images/Name.gif" alt=TriScrpt>
 </div>
 
 ## Welcome to My Coding Journey
@@ -26,6 +26,6 @@ I'm always open to collaboration, learning, and networking. Please feel free to 
 
 - **Email**: [liam.stacey05@gmail.com](mailto:liam.stacey05@gmail.com)
 - **Socials**:
->[<img src="Images/instagram_icon.png" width="50" height="50">](https://www.instagram.com/triscrpt/) [<img src="Images/twitter_icon.png" width="50" height="50">](https://twitter.com/triscrpt) [<img src="Images/youtube_icon.png" width="50" height="50">](https://www.youtube.com/@triscrpt)
+>[<img src="Images/instagram_icon.png" alt="Instagram" width="50" height="50">](https://www.instagram.com/triscrpt/) [<img src="Images/twitter_icon.png" alt="Twitter" width="50" height="50">](https://twitter.com/triscrpt) [<img src="Images/youtube_icon.png" alt="YouTube" width="50" height="50">](https://www.youtube.com/@triscrpt)
 
 Thank you for visiting my GitHub portfolio. I'm excited to continue growing, learning, and coding, and I hope you find something here that inspires you. Whether you're a fellow developer, a potential employer, or just someone who's interested in my work, let's connect!
