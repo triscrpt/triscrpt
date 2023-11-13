@@ -16,21 +16,3 @@
 >[![Youtube](Images/Youtube_badge.svg)](https://www.youtube.com/@triscrpt)
 >[![Instagram](Images/Instagram_badge.svg)](https://www.instagram.com/triscrpt/)
 >[![Facebook](Images/Facebook_badge.svg)](https://m.facebook.com/liam.stacey.98031?eav=Afbz8Z7YjAcdq8rqRvHG4PgEVymp50oDUD5StlXZwBnWQurvXUxwyMwWPawLdWJvLag&paipv=0)
-
-<details>
-  <summary>Click to Copy</summary>
-  
-   <script>
-    function copyToClipboard() {
-      const textToCopy = "liam.stacey05@gmail.com";
-      const textarea = document.createElement("textarea");
-      textarea.value = textToCopy;
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand("copy");
-      document.body.removeChild(textarea);
-      alert("Text copied to clipboard!");
-    }
-  </script>
-</details>
-  <button id="copyButton" onclick="copyToClipboard()">Copy</button>
