@@ -9,8 +9,8 @@
 
 ## Projects
 >- [Current project(s)](Pages/CurrentProjectsList.md)
->- Completed projects
->- College projects
+>- [Completed projects](Pages/CompletedProjectsList.md)
+>- [College projects](Pages/CollegeProjectsList.md)
 
 ## Social
 >- **Email**: [liam.stacey05@gmail.com](mailto:liam.stacey05@gmail.com)
