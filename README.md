@@ -7,6 +7,11 @@
 >- [Education](Pages/FunFacts.md)
 >- [Temporary Waffle](Pages/Waffle.md)
 
+## Projects
+>- Current project(s)
+>- Completed projects
+>- College projects
+
 ## Social
 >- **Email**: [liam.stacey05@gmail.com](mailto:liam.stacey05@gmail.com)
 >
