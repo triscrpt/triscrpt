@@ -8,7 +8,7 @@
 >- [Temporary Waffle](Pages/Waffle.md)
 
 ## Projects
->- [Current project(s)](https://github.com/triscrpt/Command-Line-Uno)
+>- [Current project(s)](Pages/CurrentProjectsList.md)
 >- Completed projects
 >- College projects
 
