@@ -1,2 +1,2 @@
 ## Current Projects List
-> #### - [Command Line Uno](https://github.com/triscrpt/Command-Line-Uno) 
+>- #### [Command Line Uno](https://github.com/triscrpt/Command-Line-Uno) 
